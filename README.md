@@ -1,4 +1,3 @@
-# AI-Chat
 <!DOCTYPE html>
 <html lang="en">
 <head>
